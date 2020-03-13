@@ -1,0 +1,135 @@
+{
+  "samples": [
+    {
+      "name": "adding-sales-tax",
+      "description": "Learn how to use PaymentIntents to build a simple checkout flow",
+      "URL": "https://github.com/stripe-samples/adding-sales-tax"
+    },
+
+    {
+      "name": "checkout-subscription-and-add-on",
+      "description": "Uses Stripe Checkout to create a payment page that starts a subscription for a new customer",
+      "URL": "https://github.com/stripe-samples/checkout-subscription-and-add-on"
+    },
+
+    {
+      "name": "placing-a-hold",
+      "description": "Learn how to place a hold on a credit card (split auth / capture)",
+      "URL": "https://github.com/stripe-samples/placing-a-hold"
+    },
+
+    {
+      "name": "payment-form-modal",
+      "description": "How to implement Stripe Elements within a modal dialog",
+      "URL": "https://github.com/stripe-samples/payment-form-modal"
+    },
+
+    {
+      "name": "saving-card-without-payment",
+      "description": "How to build a form to save a credit card without taking a payment",
+      "URL": "https://github.com/stripe-samples/saving-card-without-payment"
+    },
+
+    {
+      "name": "checkout-one-time-payments",
+      "description": "Use Checkout to quickly collect one-time payments",
+      "URL": "https://github.com/stripe-samples/checkout-one-time-payments"
+    },
+
+    {
+      "name": "checkout-single-subscription",
+      "description": "Learn how to combine Checkout and Billing for fast subscription pages",
+      "URL": "https://github.com/stripe-samples/checkout-single-subscription"
+    },
+
+    {
+      "name": "accept-a-card-payment",
+      "description": "Learn how to accept a basic card payment",
+      "URL": "https://github.com/stripe-samples/accept-a-card-payment"
+    },
+
+    {
+      "name": "saving-card-after-payment",
+      "description": "Learn how to save a card for later reuse after making a payment",
+      "URL": "https://github.com/stripe-samples/saving-card-after-payment"
+    },
+
+    {
+      "name": "react-elements-card-payment",
+      "description": "Learn how to build a checkout form with React",
+      "URL": "https://github.com/stripe-samples/react-elements-card-payment"
+    },
+
+    {
+      "name": "card-payment-charges-api",
+      "description": "Learn how to accept a basic card payment with the Charges API",
+      "URL": "https://github.com/stripe-samples/card-payment-charges-api"
+    },
+
+    {
+      "name": "multiple-plan-subscriptions",
+      "description": "Learn how to create a multi-plan subscription model",
+      "URL": "https://github.com/stripe-samples/charging-for-multiple-plan-subscriptions"
+    },
+
+    {
+      "name": "set-up-subscriptions",
+      "description": "Learn how to create a simple subscription with Stripe Billing",
+      "URL": "https://github.com/stripe-samples/set-up-subscriptions"
+    },
+
+    {
+      "name": "subscriptions-with-card-and-direct-debit",
+      "description": "Learn how to implement card and direct debit methods for usage with subscriptions",
+      "URL": "https://github.com/stripe-samples/subscriptions-with-card-and-direct-debit"
+    },
+
+    {
+      "name": "oxxo-payment",
+      "description": "Build a payment form to collect OXXO and card payments",
+      "URL": "https://github.com/stripe-samples/oxxo-payment"
+    },
+
+    {
+      "name": "au-becs-debit-payment",
+      "description": "Collecting AU BECS Direct Debit mandates and payments",
+      "URL": "https://github.com/stripe-samples/au-becs-debit-payment"
+    },
+
+    {
+      "name": "web-elements-sepa-debit-payment",
+      "description": "Accept SEPA Debit payments",
+      "URL": "https://github.com/stripe-samples/web-elements-sepa-debit-payment"
+    },
+
+    {
+      "name": "web-elements-ideal-payment",
+      "description": "Build a payment form to collect iDEAL and card payments",
+      "URL": "https://github.com/stripe-samples/web-elements-ideal-payment"
+    },
+
+    {
+      "name": "web-elements-fpx-payment",
+      "description": "[Beta] Accept payments with FPX, a popular payment method in Malaysia",
+      "URL": "https://github.com/stripe-samples/web-elements-fpx-payment"
+    },
+
+    {
+      "name": "charging-a-saved-card",
+      "description": "Learn how to charge a saved card",
+      "URL": "https://github.com/stripe-samples/charging-a-saved-card"
+    },
+
+    {
+      "name": "connect-onboarding-for-standard",
+      "description": "Learn how to onboard users for Stripe Connect with Onboarding for Standard",
+      "URL": "https://github.com/stripe-samples/connect-onboarding-for-standard"
+    },
+
+    {
+      "name": "developer-office-hours",
+      "description": "Starter templates for following along with Developer Office Hours",
+      "URL": "https://github.com/stripe-samples/developer-office-hours"
+    }
+  ]
+}
