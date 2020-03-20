@@ -130,6 +130,12 @@
       "name": "developer-office-hours",
       "description": "Starter templates for following along with Developer Office Hours",
       "URL": "https://github.com/stripe-samples/developer-office-hours"
+    },
+
+    {
+      "name": "checkout-remember-me-with-twilio-verify",
+      "description": "Collect payment details with Checkout and authenticate customers with Twilio Verrify",
+      "URL": "https://github.com/stripe-samples/checkout-remember-me-with-twilio-verify"
     }
   ]
 }
