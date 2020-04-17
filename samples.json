@@ -142,6 +142,36 @@
       "name": "connect-destination-charge",
       "description": "Process a Connect destination charge using Stripe Elements.",
       "URL": "https://github.com/stripe-samples/connect-destination-charge"
-    }
+    },
+
+    {
+      "name": "connect-direct-charge",
+      "description": "Process a Connect direct charge using Stripe Elements.",
+      "URL": "https://github.com/stripe-samples/connect-direct-charge"
+    },
+
+    {
+      "name": "connect-destination-charge-checkout",
+      "description": "Process a Connect destination charge using Stripe Checkout.",
+      "URL": "https://github.com/stripe-samples/connect-destination-charge-checkout"
+    },
+
+    {
+      "name": "connect-express-oauth",
+      "description": "Onboarding an Express Connect account using OAuth.",
+      "URL": "https://github.com/stripe-samples/connect-express-oauth"
+    },
+
+    {
+      "name": "connect-standard-oauth",
+      "description": "Onboarding an Standard Connect account using OAuth.",
+      "URL": "https://github.com/stripe-samples/connect-standard-oauth"
+    },
+
+    {
+      "name": "connect-top-up-and-transfer",
+      "description": "Top-up your platform's balance and pay out connected accounts.",
+      "URL": "https://github.com/stripe-samples/connect-top-up-and-transfer"
+    },
   ]
 }
