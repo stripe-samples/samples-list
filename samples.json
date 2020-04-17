@@ -173,5 +173,11 @@
       "description": "Top-up your platform's balance and pay out connected accounts.",
       "URL": "https://github.com/stripe-samples/connect-top-up-and-transfer"
     },
+
+    {
+      "name": "checkout-netlify-serverless",
+      "description": "Use Stripe Checkout with Netlify Functions to sell your products online.",
+      "URL": "https://github.com/stripe-samples/checkout-netlify-serverless"
+    },
   ]
 }
