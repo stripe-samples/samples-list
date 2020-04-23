@@ -157,6 +157,12 @@
     },
 
     {
+      "name": "connect-direct-charge-checkout",
+      "description": "Process a Connect direct charge using Stripe Checkout.",
+      "URL": "https://github.com/stripe-samples/connect-direct-charge-checkout"
+    },
+
+    {
       "name": "connect-express-oauth",
       "description": "Onboarding an Express Connect account using OAuth.",
       "URL": "https://github.com/stripe-samples/connect-express-oauth"
