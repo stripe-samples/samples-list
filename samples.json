@@ -85,6 +85,12 @@
     },
 
     {
+      "name": "subscriptions-with-fixed-price",
+      "description": "Learn how to fixed price subscriptions and handle common use cases.",
+      "URL": "https://github.com/stripe-samples/subscription-with-fixed-price"
+    },
+
+    {
       "name": "oxxo-payment",
       "description": "Build a payment form to collect OXXO and card payments",
       "URL": "https://github.com/stripe-samples/oxxo-payment"
