@@ -184,6 +184,12 @@
       "name": "connect-top-up-and-transfer",
       "description": "Top-up your platform's balance and pay out connected accounts.",
       "URL": "https://github.com/stripe-samples/connect-top-up-and-transfer"
+    },
+
+    {
+      "name": "grabpay-payment",
+      "description": "Accept GrabPay Payments, a popular digital wallet in Southeast Asia.",
+      "URL": "https://github.com/stripe-samples/grabpay-payment"
     }
   ]
 }
