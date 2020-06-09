@@ -190,6 +190,12 @@
       "name": "grabpay-payment",
       "description": "Accept GrabPay Payments, a popular digital wallet in Southeast Asia.",
       "URL": "https://github.com/stripe-samples/grabpay-payment"
+    },
+
+    {
+      "name": "card-brand-choice",
+      "description": "Supporting Card Brand Choice with Stripe.",
+      "URL": "https://github.com/stripe-samples/card-brand-choice"
     }
   ]
 }
