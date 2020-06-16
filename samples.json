@@ -196,6 +196,13 @@
       "name": "card-brand-choice",
       "description": "Supporting Card Brand Choice with Stripe.",
       "URL": "https://github.com/stripe-samples/card-brand-choice"
+    },
+    
+    {
+      "name": "subscription-use-cases",
+      "description": "Create subscriptions with fixed prices or usage based billing.",
+      "URL": "https://github.com/stripe-samples/subscription-use-cases"
     }
+    
   ]
 }
