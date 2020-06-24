@@ -43,6 +43,12 @@
     },
 
     {
+      "name": "checkout-single-subscription-bacs",
+      "description": "Learn how to combine Checkout Billing and Bacs Debit for fast subscription pages with Bacs",
+      "URL": "https://github.com/stripe-samples/checkout-single-subscription-bacs"
+    },
+
+    {
       "name": "accept-a-card-payment",
       "description": "Learn how to accept a basic card payment",
       "URL": "https://github.com/stripe-samples/accept-a-card-payment"
