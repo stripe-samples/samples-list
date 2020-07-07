@@ -73,12 +73,6 @@
     },
 
     {
-      "name": "set-up-subscriptions",
-      "description": "Learn how to create a simple subscription with Stripe Billing",
-      "URL": "https://github.com/stripe-samples/set-up-subscriptions"
-    },
-
-    {
       "name": "subscriptions-with-card-and-direct-debit",
       "description": "Learn how to implement card and direct debit methods for usage with subscriptions",
       "URL": "https://github.com/stripe-samples/subscriptions-with-card-and-direct-debit"
