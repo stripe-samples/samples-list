@@ -43,6 +43,18 @@
     },
 
     {
+      "name": "checkout-uk-bacs-debit-setup",
+      "description": "Learn how setup a Bacs Direct Debit",
+      "URL": "https://github.com/stripe-samples/checkout-uk-bacs-debit-setup"
+    },
+
+    {
+      "name": "checkout-uk-bacs-debit-setup-and-payment",
+      "description": "Learn how setup a Bacs Direct Debit and take a payment",
+      "URL": "https://github.com/stripe-samples/checkout-uk-bacs-debit-setup-and-payment"
+    },
+
+    {
       "name": "accept-a-card-payment",
       "description": "Learn how to accept a basic card payment",
       "URL": "https://github.com/stripe-samples/accept-a-card-payment"
