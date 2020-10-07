@@ -208,12 +208,6 @@
       "name": "connect-onboarding-for-express",
       "description": "Onboard an Express Connect account using the API.",
       "URL": "https://github.com/stripe-samples/connect-onboarding-for-express"
-    },
-
-    {
-      "name": "connect-onboarding-for-standard",
-      "description": "Onboard a Standard Connect account using the API.",
-      "URL": "https://github.com/stripe-samples/connect-onboarding-for-standard"
     }
   ]
 }
