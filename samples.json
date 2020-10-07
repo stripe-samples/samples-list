@@ -202,6 +202,18 @@
       "name": "subscription-use-cases",
       "description": "Create subscriptions with fixed prices or usage based billing.",
       "URL": "https://github.com/stripe-samples/subscription-use-cases"
+    },
+
+    {
+      "name": "connect-onboarding-for-express",
+      "description": "Onboard an Express Connect account using the API.",
+      "URL": "https://github.com/stripe-samples/connect-onboarding-for-express"
+    },
+
+    {
+      "name": "connect-onboarding-for-standard",
+      "description": "Onboard a Standard Connect account using the API.",
+      "URL": "https://github.com/stripe-samples/connect-onboarding-for-standard"
     }
   ]
 }
