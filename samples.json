@@ -7,12 +7,6 @@
     },
 
     {
-      "name": "checkout-subscription-and-add-on",
-      "description": "Uses Stripe Checkout to create a payment page that starts a subscription for a new customer",
-      "URL": "https://github.com/stripe-samples/checkout-subscription-and-add-on"
-    },
-
-    {
       "name": "placing-a-hold",
       "description": "Learn how to place a hold on a credit card (split auth / capture)",
       "URL": "https://github.com/stripe-samples/placing-a-hold"
@@ -61,6 +55,12 @@
     },
 
     {
+      "name": "accept-a-card-payment",
+      "description": "Learn how to accept a payment",
+      "URL": "https://github.com/stripe-samples/accept-a-payment"
+    },
+
+    {
       "name": "saving-card-after-payment",
       "description": "Learn how to save a card for later reuse after making a payment",
       "URL": "https://github.com/stripe-samples/saving-card-after-payment"
@@ -70,12 +70,6 @@
       "name": "react-elements-card-payment",
       "description": "Learn how to build a checkout form with React",
       "URL": "https://github.com/stripe-samples/react-elements-card-payment"
-    },
-
-    {
-      "name": "card-payment-charges-api",
-      "description": "Learn how to accept a basic card payment with the Charges API",
-      "URL": "https://github.com/stripe-samples/card-payment-charges-api"
     },
 
     {
