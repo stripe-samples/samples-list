@@ -55,7 +55,7 @@
     },
 
     {
-      "name": "accept-a-card-payment",
+      "name": "accept-a-payment",
       "description": "Learn how to accept a payment",
       "URL": "https://github.com/stripe-samples/accept-a-payment"
     },
