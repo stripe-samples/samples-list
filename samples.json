@@ -67,12 +67,6 @@
     },
 
     {
-      "name": "react-elements-card-payment",
-      "description": "Learn how to build a checkout form with React",
-      "URL": "https://github.com/stripe-samples/react-elements-card-payment"
-    },
-
-    {
       "name": "multiple-plan-subscriptions",
       "description": "Learn how to create a multi-plan subscription model",
       "URL": "https://github.com/stripe-samples/charging-for-multiple-plan-subscriptions"
@@ -82,36 +76,6 @@
       "name": "subscriptions-with-card-and-direct-debit",
       "description": "Learn how to implement card and direct debit methods for usage with subscriptions",
       "URL": "https://github.com/stripe-samples/subscriptions-with-card-and-direct-debit"
-    },
-
-    {
-      "name": "oxxo-payment",
-      "description": "Build a payment form to collect OXXO and card payments",
-      "URL": "https://github.com/stripe-samples/oxxo-payment"
-    },
-
-    {
-      "name": "au-becs-debit-payment",
-      "description": "Collecting AU BECS Direct Debit mandates and payments",
-      "URL": "https://github.com/stripe-samples/au-becs-debit-payment"
-    },
-
-    {
-      "name": "web-elements-sepa-debit-payment",
-      "description": "Accept SEPA Debit payments",
-      "URL": "https://github.com/stripe-samples/web-elements-sepa-debit-payment"
-    },
-
-    {
-      "name": "web-elements-ideal-payment",
-      "description": "Build a payment form to collect iDEAL and card payments",
-      "URL": "https://github.com/stripe-samples/web-elements-ideal-payment"
-    },
-
-    {
-      "name": "web-elements-fpx-payment",
-      "description": "[Beta] Accept payments with FPX, a popular payment method in Malaysia",
-      "URL": "https://github.com/stripe-samples/web-elements-fpx-payment"
     },
 
     {
@@ -178,12 +142,6 @@
       "name": "connect-top-up-and-transfer",
       "description": "Top-up your platform's balance and pay out connected accounts.",
       "URL": "https://github.com/stripe-samples/connect-top-up-and-transfer"
-    },
-
-    {
-      "name": "grabpay-payment",
-      "description": "Accept GrabPay Payments, a popular digital wallet in Southeast Asia.",
-      "URL": "https://github.com/stripe-samples/grabpay-payment"
     },
 
     {
