@@ -13,12 +13,6 @@
     },
 
     {
-      "name": "payment-form-modal",
-      "description": "How to implement Stripe Elements within a modal dialog",
-      "URL": "https://github.com/stripe-samples/payment-form-modal"
-    },
-
-    {
       "name": "saving-card-without-payment",
       "description": "How to build a form to save a credit card without taking a payment",
       "URL": "https://github.com/stripe-samples/saving-card-without-payment"
