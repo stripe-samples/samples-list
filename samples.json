@@ -37,12 +37,6 @@
     },
 
     {
-      "name": "accept-a-card-payment",
-      "description": "Learn how to accept a basic card payment",
-      "URL": "https://github.com/stripe-samples/accept-a-card-payment"
-    },
-
-    {
       "name": "accept-a-payment",
       "description": "Learn how to accept a payment",
       "URL": "https://github.com/stripe-samples/accept-a-payment"
@@ -52,12 +46,6 @@
       "name": "saving-card-after-payment",
       "description": "Learn how to save a card for later reuse after making a payment",
       "URL": "https://github.com/stripe-samples/saving-card-after-payment"
-    },
-
-    {
-      "name": "multiple-plan-subscriptions",
-      "description": "Learn how to create a multi-plan subscription model",
-      "URL": "https://github.com/stripe-samples/charging-for-multiple-plan-subscriptions"
     },
 
     {
