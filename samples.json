@@ -136,6 +136,12 @@
       "name": "connect-onboarding-for-express",
       "description": "Onboard an Express Connect account using the API.",
       "URL": "https://github.com/stripe-samples/connect-onboarding-for-express"
+    },
+
+    {
+      "name": "identity",
+      "description": "Learn how to verify your users' identities.",
+      "URL": "https://github.com/stripe-samples/identity"
     }
   ]
 }
