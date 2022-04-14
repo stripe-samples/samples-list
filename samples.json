@@ -1,6 +1,11 @@
 {
   "samples": [
     {
+      "name": "terminal",
+      "description": "Learn how to accept in-person payments",
+      "URL": "https://github.com/stripe-samples/terminal"
+    },
+    {
       "name": "placing-a-hold",
       "description": "Learn how to place a hold on a credit card (split auth / capture)",
       "URL": "https://github.com/stripe-samples/placing-a-hold"
