@@ -77,12 +77,6 @@
     },
 
     {
-      "name": "checkout-remember-me-with-twilio-verify",
-      "description": "Collect payment details with Checkout and authenticate customers with Twilio Verrify",
-      "URL": "https://github.com/stripe-samples/checkout-remember-me-with-twilio-verify"
-    },
-
-    {
       "name": "connect-destination-charge",
       "description": "Process a Connect destination charge using Stripe Elements.",
       "URL": "https://github.com/stripe-samples/connect-destination-charge"
