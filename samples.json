@@ -1,6 +1,11 @@
 {
   "samples": [
     {
+      "name": "link",
+      "description": "Learn how to enable faster checkout with Link",
+      "URL": "https://github.com/stripe-samples/link"
+    },
+    {
       "name": "terminal",
       "description": "Learn how to accept in-person payments",
       "URL": "https://github.com/stripe-samples/terminal"
