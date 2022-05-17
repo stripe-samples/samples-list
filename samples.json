@@ -6,6 +6,21 @@
       "URL": "https://github.com/stripe-samples/link"
     },
     {
+      "name": "stripe-terminal-list-readers",
+      "description": "Companion repo for Stripe Developers episode 'Retrieving Stripe Terminal Readers'",
+      "URL": "https://github.com/stripe-samples/stripe-terminal-list-readers"
+    },
+    {
+      "name": "stripe-terminal-collect-payments",
+      "description": "Companion repo for Stripe Developers episode 'Create and collecting payments with Stripe Terminal'",
+      "URL": "https://github.com/stripe-samples/stripe-terminal-collect-payments"
+    },
+    {
+      "name": "stripe-terminal-cancel-actions",
+      "description": "Companion repo for Stripe Developers episode 'Canceling Stripe Terminal Reader actions'",
+      "URL": "https://github.com/stripe-samples/stripe-terminal-cancel-actions"
+    },
+    {
       "name": "terminal",
       "description": "Learn how to accept in-person payments",
       "URL": "https://github.com/stripe-samples/terminal"
