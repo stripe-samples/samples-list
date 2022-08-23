@@ -1,11 +1,6 @@
 {
   "samples": [
     {
-      "name": "developer-office-hours",
-      "description": "Starter templates for following along with video tutorials.",
-      "URL": "https://github.com/stripe-samples/developer-office-hours"
-    },
-    {
       "name": "link",
       "description": "Learn how to enable faster checkout with Link",
       "URL": "https://github.com/stripe-samples/link"
@@ -150,6 +145,16 @@
       "name": "identity",
       "description": "Learn how to verify your users' identities.",
       "URL": "https://github.com/stripe-samples/identity"
+    },
+    {
+      "name": "developer-office-hours",
+      "description": "Starter templates for following along with video tutorials.",
+      "URL": "https://github.com/stripe-samples/starter"
+    },
+    {
+      "name": "starter",
+      "description": "Starter templates for following along with video tutorials.",
+      "URL": "https://github.com/stripe-samples/starter"
     }
   ]
 }
