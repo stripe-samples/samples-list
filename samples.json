@@ -35,7 +35,11 @@
       "description": "Learn how to use Stripe Issuing to issue cards and authorize transactions in real-time",
       "URL": "https://github.com/stripe-samples/issuing"
     },
-
+    {
+      "name": "issuing-treasury",
+      "description": "Starter application demonstrating the use of Stripe's Issuing, Treasury, and Connect APIs",
+      "URL": "https://github.com/stripe-samples/issuing-treasury"
+    },
     {
       "name": "saving-card-without-payment",
       "description": "How to build a form to save a credit card without taking a payment",
