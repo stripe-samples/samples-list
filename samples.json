@@ -179,6 +179,26 @@
       "name": "starter",
       "description": "Starter templates for following along with video tutorials.",
       "URL": "https://github.com/stripe-samples/starter"
+    },
+    {
+      "name": "oasis-hubs-dotnet",
+      "description": "Sample application showing a Stripe Connect and Billing integration using ASP.NET Core.",
+      "URL": "https://github.com/stripe-samples/oasis-hubs-dotnet"
+    },
+    {
+      "name": "terminal-apps-on-devices",
+      "description": "Deploy your Android apps on Stripe SmartPOS Android devices.", 
+      "URL":"https://github.com/stripe-samples/terminal-apps-on-devices"
+    },
+    {
+      "name": "tap-to-pay-android-demo",
+      "description": "Accept contactless payments on a compatible Android device with the Stripe Terminal SDK.",
+      "URL": "https://github.com/stripe-samples/tap-to-pay-android-demo"
+    },
+    {
+      "name": "stripe-connect-furever-demo",
+      "description": "Integrate with Connect embedded Components to build a fully embedded Connect integration.",
+      "URL": "https://github.com/stripe/stripe-connect-furever-demo"
     }
   ]
 }
