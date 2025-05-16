@@ -26,11 +26,6 @@
       "URL": "https://github.com/stripe-samples/terminal"
     },
     {
-      "name": "placing-a-hold",
-      "description": "Learn how to place a hold on a credit card (split auth / capture)",
-      "URL": "https://github.com/stripe-samples/placing-a-hold"
-    },
-    {
       "name": "issuing",
       "description": "Learn how to use Stripe Issuing to issue cards and authorize transactions in real-time",
       "URL": "https://github.com/stripe-samples/issuing"
