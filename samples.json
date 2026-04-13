@@ -194,6 +194,11 @@
       "name": "stripe-connect-furever-demo",
       "description": "Integrate with Connect embedded Components to build a fully embedded Connect integration.",
       "URL": "https://github.com/stripe/stripe-connect-furever-demo"
+    },
+    {
+      "name": "machine-payments",
+      "description": "Learn how to implement machine-to-machine payments.",
+      "URL": "https://github.com/stripe-samples/machine-payments"
     }
   ]
 }
