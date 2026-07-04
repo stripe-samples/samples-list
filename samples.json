@@ -21,11 +21,6 @@
       "URL": "https://github.com/stripe-samples/stripe-terminal-cancel-actions"
     },
     {
-      "name": "terminal",
-      "description": "Learn how to accept in-person payments",
-      "URL": "https://github.com/stripe-samples/terminal"
-    },
-    {
       "name": "issuing",
       "description": "Learn how to use Stripe Issuing to issue cards and authorize transactions in real-time",
       "URL": "https://github.com/stripe-samples/issuing"
@@ -41,12 +36,6 @@
       "URL": "https://stripe-push-provisioning-example-backend.glitch.me/"
     },
     {
-      "name": "saving-card-without-payment",
-      "description": "How to build a form to save a credit card without taking a payment",
-      "URL": "https://github.com/stripe-samples/saving-card-without-payment"
-    },
-
-    {
       "name": "checkout-one-time-payments",
       "description": "Use Checkout to quickly collect one-time payments",
       "URL": "https://github.com/stripe-samples/checkout-one-time-payments"
@@ -59,87 +48,15 @@
     },
 
     {
-      "name": "checkout-uk-bacs-debit-setup",
-      "description": "Learn how setup a Bacs Direct Debit",
-      "URL": "https://github.com/stripe-samples/checkout-uk-bacs-debit-setup"
-    },
-
-    {
-      "name": "checkout-uk-bacs-debit-setup-and-payment",
-      "description": "Learn how setup a Bacs Direct Debit and take a payment",
-      "URL": "https://github.com/stripe-samples/checkout-uk-bacs-debit-setup-and-payment"
-    },
-
-    {
       "name": "accept-a-payment",
       "description": "Learn how to accept a payment",
       "URL": "https://github.com/stripe-samples/accept-a-payment"
     },
 
     {
-      "name": "saving-card-after-payment",
-      "description": "Learn how to save a card for later reuse after making a payment",
-      "URL": "https://github.com/stripe-samples/saving-card-after-payment"
-    },
-
-    {
       "name": "subscriptions-with-card-and-direct-debit",
       "description": "Learn how to implement card and direct debit methods for usage with subscriptions",
       "URL": "https://github.com/stripe-samples/subscriptions-with-card-and-direct-debit"
-    },
-
-    {
-      "name": "charging-a-saved-card",
-      "description": "Learn how to charge a saved card",
-      "URL": "https://github.com/stripe-samples/charging-a-saved-card"
-    },
-
-    {
-      "name": "connect-onboarding-for-standard",
-      "description": "Learn how to onboard users for Stripe Connect with Onboarding for Standard",
-      "URL": "https://github.com/stripe-samples/connect-onboarding-for-standard"
-    },
-
-    {
-      "name": "connect-destination-charge",
-      "description": "Process a Connect destination charge using Stripe Elements.",
-      "URL": "https://github.com/stripe-samples/connect-destination-charge"
-    },
-
-    {
-      "name": "connect-direct-charge",
-      "description": "Process a Connect direct charge using Stripe Elements.",
-      "URL": "https://github.com/stripe-samples/connect-direct-charge"
-    },
-
-    {
-      "name": "connect-destination-charge-checkout",
-      "description": "Process a Connect destination charge using Stripe Checkout.",
-      "URL": "https://github.com/stripe-samples/connect-destination-charge-checkout"
-    },
-
-    {
-      "name": "connect-direct-charge-checkout",
-      "description": "Process a Connect direct charge using Stripe Checkout.",
-      "URL": "https://github.com/stripe-samples/connect-direct-charge-checkout"
-    },
-
-    {
-      "name": "connect-express-oauth",
-      "description": "Onboarding an Express Connect account using OAuth.",
-      "URL": "https://github.com/stripe-samples/connect-express-oauth"
-    },
-
-    {
-      "name": "connect-standard-oauth",
-      "description": "Onboarding an Standard Connect account using OAuth.",
-      "URL": "https://github.com/stripe-samples/connect-standard-oauth"
-    },
-
-    {
-      "name": "connect-top-up-and-transfer",
-      "description": "Top-up your platform's balance and pay out connected accounts.",
-      "URL": "https://github.com/stripe-samples/connect-top-up-and-transfer"
     },
 
     {
@@ -152,12 +69,6 @@
       "name": "subscription-use-cases",
       "description": "Create subscriptions with fixed prices or usage based billing.",
       "URL": "https://github.com/stripe-samples/subscription-use-cases"
-    },
-
-    {
-      "name": "connect-onboarding-for-express",
-      "description": "Onboard an Express Connect account using the API.",
-      "URL": "https://github.com/stripe-samples/connect-onboarding-for-express"
     },
 
     {
