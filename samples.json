@@ -61,11 +61,6 @@
       "URL": "https://github.com/stripe-samples/saving-card-after-payment"
     },
     {
-      "name": "subscriptions-with-card-and-direct-debit",
-      "description": "Learn how to implement card and direct debit methods for usage with subscriptions",
-      "URL": "https://github.com/stripe-samples/subscriptions-with-card-and-direct-debit"
-    },
-    {
       "name": "charging-a-saved-card",
       "description": "Learn how to charge a saved card",
       "URL": "https://github.com/stripe-samples/charging-a-saved-card"
