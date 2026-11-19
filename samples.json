@@ -131,11 +131,6 @@
       "URL": "https://github.com/stripe-samples/starter"
     },
     {
-      "name": "oasis-hubs-dotnet",
-      "description": "Sample application showing a Stripe Connect and Billing integration using ASP.NET Core.",
-      "URL": "https://github.com/stripe-samples/oasis-hubs-dotnet"
-    },
-    {
       "name": "terminal-apps-on-devices",
       "description": "Deploy your Android apps on Stripe SmartPOS Android devices.", 
       "URL":"https://github.com/stripe-samples/terminal-apps-on-devices"
